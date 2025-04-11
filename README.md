@@ -1,3 +1,20 @@
+# 🧠 AI/ML Interview Q&A (Mid-Level, Computer Vision Focus)
+
+Welcome to the **AI/ML Engineer Interview Q&A Repository** – a curated collection of high-quality questions and detailed answers tailored for **mid-level engineers** interviewing for roles in **Artificial Intelligence**, **Machine Learning**, and especially **Computer Vision** domains.
+
+---
+
+## 📚 What You'll Find in This Repo
+
+This repository includes:
+
+- ✅ Real-world questions asked in **Big Tech and Defense Sector** interviews  
+- 🔍 In-depth answers on **Object Detection**, **Image Segmentation**, **Deep Learning**, **ML System Design**, and more  
+- 🧪 Coding challenges with Python solutions  
+- 🚀 Deployment and MLOps-focused insights for real-world applications
+
+---
+
 Mid-Level AI/ML Interview Q&A (Computer Vision Focus)
 Computer Vision
 
