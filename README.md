@@ -18,6 +18,14 @@ This repository includes:
 Mid-Level AI/ML Interview Q&A (Computer Vision Focus)
 Computer Vision
 
+### Q: What is the difference between Bayesian vs frequentist statistics?
+
+**A:** Frequentist statistics is a framework that focuses on estimating population parameters using sample statistics, and providing point estimates and confidence intervals.
+
+Bayesian statistics, on the other hand, is a framework that uses prior knowledge and information to update beliefs about a parameter or hypothesis, and provides probability distributions for parameters.
+
+The main difference is that Bayesian statistics incorporates prior knowledge and beliefs into the analysis, while frequentist statistics doesn't.
+
 ### Q: What is the difference between image classification, object detection, and image segmentation?
 **A:** These are three fundamental computer vision tasks. Image classification assigns a label or category to an entire image (e.g., classifying an image as “cat” or “dog”). It doesn’t locate where in the image the object is – it only provides a label. Object detection goes a step further: it not only classifies objects but also localizes them by drawing bounding boxes around each instance of an object in the image. For example, in an image with multiple animals, object detection can identify and draw boxes around each cat and dog, classifying each () (). Image segmentation provides a pixel-wise understanding of the image by labeling each pixel according to the object or class it belongs to. In semantic segmentation, all pixels of the same class are labeled identically (e.g. all pixels belonging to any dog have the label “dog”), whereas instance segmentation is more fine-grained – it distinguishes between different instances of the same class (labeling each object separately, e.g. “dog 1” vs “dog 2”) () (). In summary, classification tells “what” is in an image, detection tells “what and where” for each object, and segmentation gives a precise outline (mask) of which pixels belong to each object or class.
 
